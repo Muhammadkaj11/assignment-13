@@ -13,4 +13,5 @@ decimal_number = int(input("Enter a decimal number: "))
 print(f"Binary representation: {decimal_to_binary(decimal_number)}")
 
 
+
     
